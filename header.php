@@ -17,10 +17,10 @@ This file contains bootstrap file links.
     <div class="container">
  
         <div class="navbar-header">
-            <a class="navbar-brand" href="http://www.codingcage.com" title='Programming Blog'>Coding Cage</a>
-            <a class="navbar-brand" href="http://www.codingcage.com/search/label/CRUD">CRUD</a>
-            <a class="navbar-brand" href="http://www.codingcage.com/search/label/PDO">PDO</a>
-            <a class="navbar-brand" href="http://www.codingcage.com/search/label/jQuery">jQuery</a>
+            <a class="navbar-brand" href="#" title='Programming Blog'>Coding Cage</a>
+            <a class="navbar-brand" href="#">CRUD</a>
+            <a class="navbar-brand" href="#">PDO</a>
+            <a class="navbar-brand" href="#">jQuery</a>
         </div>
  
     </div>
