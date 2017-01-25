@@ -1,0 +1,18 @@
+bootstrap/
+├── css/
+│   ├── bootstrap.min.css
+├── js/
+│   └── bootstrap.min.js
+└── fonts/
+    ├── glyphicons-halflings-regular.eot
+    ├── glyphicons-halflings-regular.svg
+    ├── glyphicons-halflings-regular.ttf
+    └── glyphicons-halflings-regular.woff
+add-data.php
+class.crud.php
+dbconfig.php
+delete.php
+edit-data.php
+footer.php
+header.php
+index.php
